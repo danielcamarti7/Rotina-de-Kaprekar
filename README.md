@@ -10,4 +10,4 @@ O programa organiza os dígitos em ordem crescente e decrescente, faz a subtraç
 Execute o código em Python e digite um número de quatro dígitos quando solicitado.
 
 ## Autor
-Daniel
+Daniel Silva Martins
